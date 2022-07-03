@@ -2,7 +2,7 @@
 
 ### 👉 [Demo](https://bmi-calculatr.netlify.app/)
 
-### Normal healthy weight
+### Normal (healthy) weight
 ![Screenshot (39)](https://user-images.githubusercontent.com/56648155/177041259-a7ec4eb7-d7bc-497c-9e8c-cce3c488063a.png)
 
 ### Underweight 
