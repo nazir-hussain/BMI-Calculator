@@ -2,10 +2,10 @@
 
 ### 👉 [Demo](https://bmi-calculatr.netlify.app/)
 
-### Underweight 
+### Normal healthy weight
 ![Screenshot (39)](https://user-images.githubusercontent.com/56648155/177041259-a7ec4eb7-d7bc-497c-9e8c-cce3c488063a.png)
 
-### Normal weight = 18.5–24.9
+### Underweight 
 ![Screenshot (41)](https://user-images.githubusercontent.com/56648155/177041266-6aebc2ef-d394-4406-a9e8-a3bc057769fe.png)
 
 ### Overweight 
