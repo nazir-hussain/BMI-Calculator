@@ -1,3 +1,18 @@
+# BMI-Calculator
+
+### 👉 [Demo](https://bmi-calculatr.netlify.app/)
+
+### Underweight 
+![Screenshot (39)](https://user-images.githubusercontent.com/56648155/177041259-a7ec4eb7-d7bc-497c-9e8c-cce3c488063a.png)
+
+### Normal weight = 18.5–24.9
+![Screenshot (41)](https://user-images.githubusercontent.com/56648155/177041266-6aebc2ef-d394-4406-a9e8-a3bc057769fe.png)
+
+### Overweight 
+![Screenshot (40)](https://user-images.githubusercontent.com/56648155/177041270-0bf9036a-ade4-40a6-93f4-57a8c7d4c8d6.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,6 +83,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-### [Demo](https://bmi-calculatr.netlify.app/)
