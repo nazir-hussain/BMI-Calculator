@@ -8,7 +8,7 @@
 ### Underweight:
 ![Screenshot (41)](https://user-images.githubusercontent.com/56648155/177041266-6aebc2ef-d394-4406-a9e8-a3bc057769fe.png)
 
-### Overweight:
+### Overweight:-
 ![Screenshot (40)](https://user-images.githubusercontent.com/56648155/177041270-0bf9036a-ade4-40a6-93f4-57a8c7d4c8d6.png)
 
 
