@@ -60,7 +60,7 @@ function App() {
         <form onSubmit={calcBmi}>
           <div>
             <label>Weight (lbs)</label>
-            <input type="number" value={weight} onChange={(e) => setWeight(e.target.value)} />
+            <input type="number" value={weight} placeholder="0" onChange={(e) => setWeight(e.target.value)} />
           </div>
           <div>
             <label>Height (in)</label>
