@@ -64,7 +64,7 @@ function App() {
           </div>
           <div>
             <label>Height (in)</label>
-            <input type="number" value={height} onChange={(event) => setHeight(event.target.value)} />
+            <input type="number" value={height} placeholder="0" onChange={(event) => setHeight(event.target.value)} />
           </div>
           <div>
             <button className='btn' type='submit'>Submit</button>
