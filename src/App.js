@@ -49,7 +49,6 @@ function App() {
     }
   }
 
-
   let reload = () => {
     window.location.reload()
   }
