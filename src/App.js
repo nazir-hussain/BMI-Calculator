@@ -19,7 +19,7 @@ function App() {
     if (weight === 0 || height === 0) {
       alert('Please enter a valid weight and height')
     } else {
-      let bmi = (weight / (height * height))         //* 703
+      let bmi = (weight / (height * height) * 703)
       setBmi(bmi.toFixed(1))
 
       // Logic for message
